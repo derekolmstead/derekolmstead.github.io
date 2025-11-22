@@ -1,1 +1,3 @@
-theme: minima
+title: "Derek Olmstead"
+description: "Personal site"
+theme: jekyll-theme-minimal
